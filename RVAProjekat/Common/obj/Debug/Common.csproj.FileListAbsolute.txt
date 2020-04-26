@@ -1,0 +1,94 @@
+C:\Users\Stefan\source\repos\RVAProjekat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\RVAProjekat\Common\bin\Debug\Common.dll.config
+C:\Users\Stefan\source\repos\RVAProjekat\Common\bin\Debug\Common.dll
+C:\Users\Stefan\source\repos\RVAProjekat\Common\bin\Debug\Common.pdb
+C:\Users\Stefan\source\repos\RVAProjekat\Common\bin\Debug\EntityFramework.dll
+C:\Users\Stefan\source\repos\RVAProjekat\Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stefan\source\repos\RVAProjekat\Common\bin\Debug\EntityFramework.xml
+C:\Users\Stefan\source\repos\RVAProjekat\Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stefan\source\repos\RVAProjekat\Common\obj\Debug\Common.csproj.CopyComplete
+C:\Users\Stefan\source\repos\RVAProjekat\Common\obj\Debug\Common.dll
+C:\Users\Stefan\source\repos\RVAProjekat\Common\obj\Debug\Common.pdb
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Common\bin\Debug\Common.dll.config
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Common\bin\Debug\Common.dll
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Common\bin\Debug\Common.pdb
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Common\bin\Debug\EntityFramework.dll
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Common\bin\Debug\EntityFramework.SqlServer.dll
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Common\bin\Debug\EntityFramework.xml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Common\bin\Debug\EntityFramework.SqlServer.xml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Common\obj\Debug\Common.csproj.CopyComplete
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Common\obj\Debug\Common.dll
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Common\obj\Debug\Common.pdb
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Stefan\Desktop\RVAProjekat\Common\bin\Debug\Common.dll.config
+C:\Users\Stefan\Desktop\RVAProjekat\Common\bin\Debug\Common.dll
+C:\Users\Stefan\Desktop\RVAProjekat\Common\bin\Debug\Common.pdb
+C:\Users\Stefan\Desktop\RVAProjekat\Common\bin\Debug\EntityFramework.dll
+C:\Users\Stefan\Desktop\RVAProjekat\Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stefan\Desktop\RVAProjekat\Common\bin\Debug\EntityFramework.xml
+C:\Users\Stefan\Desktop\RVAProjekat\Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stefan\Desktop\RVAProjekat\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Stefan\Desktop\RVAProjekat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\RVAProjekat\Common\obj\Debug\Common.csproj.CopyComplete
+C:\Users\Stefan\Desktop\RVAProjekat\Common\obj\Debug\Common.dll
+C:\Users\Stefan\Desktop\RVAProjekat\Common\obj\Debug\Common.pdb
+F:\RVAProjekat\Common\bin\Debug\Common.dll.config
+F:\RVAProjekat\Common\bin\Debug\Common.dll
+F:\RVAProjekat\Common\bin\Debug\Common.pdb
+F:\RVAProjekat\Common\bin\Debug\EntityFramework.dll
+F:\RVAProjekat\Common\bin\Debug\EntityFramework.SqlServer.dll
+F:\RVAProjekat\Common\bin\Debug\EntityFramework.xml
+F:\RVAProjekat\Common\bin\Debug\EntityFramework.SqlServer.xml
+F:\RVAProjekat\Common\obj\Debug\Common.csprojAssemblyReference.cache
+F:\RVAProjekat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+F:\RVAProjekat\Common\obj\Debug\Common.csproj.CopyComplete
+F:\RVAProjekat\Common\obj\Debug\Common.dll
+F:\RVAProjekat\Common\obj\Debug\Common.pdb
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Common\bin\Debug\Common.dll.config
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Common\bin\Debug\Common.dll
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Common\bin\Debug\Common.pdb
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Common\bin\Debug\EntityFramework.dll
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Common\bin\Debug\EntityFramework.SqlServer.dll
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Common\bin\Debug\EntityFramework.xml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Common\bin\Debug\EntityFramework.SqlServer.xml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Common\obj\Debug\Common.csproj.CopyComplete
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Common\obj\Debug\Common.dll
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Common\obj\Debug\Common.pdb
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Common\bin\Debug\Common.dll.config
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Common\bin\Debug\Common.dll
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Common\bin\Debug\Common.pdb
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Common\bin\Debug\EntityFramework.dll
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Common\bin\Debug\EntityFramework.xml
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Common\obj\Debug\Common.csproj.CopyComplete
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Common\obj\Debug\Common.dll
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Common\obj\Debug\Common.pdb
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Common\bin\Debug\Common.dll.config
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Common\bin\Debug\Common.dll
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Common\bin\Debug\Common.pdb
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Common\bin\Debug\EntityFramework.dll
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Common\bin\Debug\EntityFramework.SqlServer.dll
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Common\bin\Debug\EntityFramework.xml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Common\bin\Debug\EntityFramework.SqlServer.xml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Common\obj\Debug\Common.csprojAssemblyReference.cache
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Common\obj\Debug\Common.csproj.CopyComplete
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Common\obj\Debug\Common.dll
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Common\obj\Debug\Common.pdb
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Common\bin\Debug\Common.dll.config
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Common\bin\Debug\Common.dll
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Common\bin\Debug\Common.pdb
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Common\bin\Debug\EntityFramework.dll
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Common\bin\Debug\EntityFramework.SqlServer.dll
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Common\bin\Debug\EntityFramework.xml
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Common\bin\Debug\EntityFramework.SqlServer.xml
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Common\obj\Debug\Common.csprojAssemblyReference.cache
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Common\obj\Debug\Common.csproj.CopyComplete
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Common\obj\Debug\Common.dll
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Common\obj\Debug\Common.pdb

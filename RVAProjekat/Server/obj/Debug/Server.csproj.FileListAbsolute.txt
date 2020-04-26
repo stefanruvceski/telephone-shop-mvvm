@@ -1,0 +1,157 @@
+C:\Users\Stefan\source\repos\RVAProjekat\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\RVAProjekat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\RVAProjekat\Server\bin\Debug\ShopDataBase.mdf
+C:\Users\Stefan\source\repos\RVAProjekat\Server\bin\Debug\ShopDataBase_log.ldf
+C:\Users\Stefan\source\repos\RVAProjekat\Server\bin\Debug\Server.exe.config
+C:\Users\Stefan\source\repos\RVAProjekat\Server\bin\Debug\Server.exe
+C:\Users\Stefan\source\repos\RVAProjekat\Server\bin\Debug\Server.pdb
+C:\Users\Stefan\source\repos\RVAProjekat\Server\bin\Debug\Common.dll
+C:\Users\Stefan\source\repos\RVAProjekat\Server\bin\Debug\EntityFramework.dll
+C:\Users\Stefan\source\repos\RVAProjekat\Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stefan\source\repos\RVAProjekat\Server\bin\Debug\Common.pdb
+C:\Users\Stefan\source\repos\RVAProjekat\Server\bin\Debug\Common.dll.config
+C:\Users\Stefan\source\repos\RVAProjekat\Server\bin\Debug\EntityFramework.xml
+C:\Users\Stefan\source\repos\RVAProjekat\Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stefan\source\repos\RVAProjekat\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Stefan\source\repos\RVAProjekat\Server\obj\Debug\Server.exe
+C:\Users\Stefan\source\repos\RVAProjekat\Server\obj\Debug\Server.pdb
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Server\bin\Debug\ShopDataBase.mdf
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Server\bin\Debug\ShopDataBase_log.ldf
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Server\bin\Debug\Server.exe.config
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Server\bin\Debug\Server.exe
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Server\bin\Debug\Server.pdb
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Server\bin\Debug\Common.dll
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Server\bin\Debug\EntityFramework.dll
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Server\bin\Debug\EntityFramework.SqlServer.dll
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Server\bin\Debug\Common.pdb
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Server\bin\Debug\Common.dll.config
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Server\bin\Debug\EntityFramework.xml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Server\bin\Debug\EntityFramework.SqlServer.xml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Server\obj\Debug\Server.csprojAssemblyReference.cache
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Server\obj\Debug\Server.csproj.CopyComplete
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Server\obj\Debug\Server.exe
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Server\obj\Debug\Server.pdb
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Server\bin\Debug\log4net.dll
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Server\bin\Debug\log4net.xml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Server\bin\Debug\log4.config
+C:\Users\Stefan\Desktop\RVAProjekat\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Stefan\Desktop\RVAProjekat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\RVAProjekat\Server\obj\Debug\Server.exe
+C:\Users\Stefan\Desktop\RVAProjekat\Server\obj\Debug\Server.pdb
+C:\Users\Stefan\Desktop\RVAProjekat\Server\bin\Debug\log4.config
+C:\Users\Stefan\Desktop\RVAProjekat\Server\bin\Debug\ShopDataBase.mdf
+C:\Users\Stefan\Desktop\RVAProjekat\Server\bin\Debug\ShopDataBase_log.ldf
+C:\Users\Stefan\Desktop\RVAProjekat\Server\bin\Debug\Server.exe.config
+C:\Users\Stefan\Desktop\RVAProjekat\Server\bin\Debug\Server.exe
+C:\Users\Stefan\Desktop\RVAProjekat\Server\bin\Debug\Server.pdb
+C:\Users\Stefan\Desktop\RVAProjekat\Server\bin\Debug\Common.dll
+C:\Users\Stefan\Desktop\RVAProjekat\Server\bin\Debug\EntityFramework.dll
+C:\Users\Stefan\Desktop\RVAProjekat\Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stefan\Desktop\RVAProjekat\Server\bin\Debug\log4net.dll
+C:\Users\Stefan\Desktop\RVAProjekat\Server\bin\Debug\Common.pdb
+C:\Users\Stefan\Desktop\RVAProjekat\Server\bin\Debug\Common.dll.config
+C:\Users\Stefan\Desktop\RVAProjekat\Server\bin\Debug\EntityFramework.xml
+C:\Users\Stefan\Desktop\RVAProjekat\Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stefan\Desktop\RVAProjekat\Server\bin\Debug\log4net.xml
+C:\Users\Stefan\Desktop\RVAProjekat\Server\obj\Debug\Server.csproj.CopyComplete
+F:\RVAProjekat\Server\bin\Debug\log4.config
+F:\RVAProjekat\Server\bin\Debug\ShopDataBase.mdf
+F:\RVAProjekat\Server\bin\Debug\ShopDataBase_log.ldf
+F:\RVAProjekat\Server\bin\Debug\Server.exe.config
+F:\RVAProjekat\Server\bin\Debug\Server.exe
+F:\RVAProjekat\Server\bin\Debug\Server.pdb
+F:\RVAProjekat\Server\bin\Debug\Common.dll
+F:\RVAProjekat\Server\bin\Debug\EntityFramework.dll
+F:\RVAProjekat\Server\bin\Debug\EntityFramework.SqlServer.dll
+F:\RVAProjekat\Server\bin\Debug\log4net.dll
+F:\RVAProjekat\Server\bin\Debug\Common.pdb
+F:\RVAProjekat\Server\bin\Debug\Common.dll.config
+F:\RVAProjekat\Server\bin\Debug\EntityFramework.xml
+F:\RVAProjekat\Server\bin\Debug\EntityFramework.SqlServer.xml
+F:\RVAProjekat\Server\bin\Debug\log4net.xml
+F:\RVAProjekat\Server\obj\Debug\Server.csprojAssemblyReference.cache
+F:\RVAProjekat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+F:\RVAProjekat\Server\obj\Debug\Server.csproj.CopyComplete
+F:\RVAProjekat\Server\obj\Debug\Server.exe
+F:\RVAProjekat\Server\obj\Debug\Server.pdb
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Server\bin\Debug\log4.config
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Server\bin\Debug\ShopDataBase.mdf
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Server\bin\Debug\ShopDataBase_log.ldf
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Server\bin\Debug\Server.exe.config
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Server\bin\Debug\Server.exe
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Server\bin\Debug\Server.pdb
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Server\bin\Debug\Common.dll
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Server\bin\Debug\EntityFramework.dll
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Server\bin\Debug\EntityFramework.SqlServer.dll
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Server\bin\Debug\log4net.dll
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Server\bin\Debug\Common.pdb
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Server\bin\Debug\Common.dll.config
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Server\bin\Debug\EntityFramework.xml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Server\bin\Debug\EntityFramework.SqlServer.xml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Server\bin\Debug\log4net.xml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Server\obj\Debug\Server.csprojAssemblyReference.cache
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Server\obj\Debug\Server.csproj.CopyComplete
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Server\obj\Debug\Server.exe
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Server\obj\Debug\Server.pdb
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Server\bin\Debug\log4.config
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Server\bin\Debug\ShopDataBase.mdf
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Server\bin\Debug\ShopDataBase_log.ldf
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Server\bin\Debug\Server.exe.config
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Server\bin\Debug\Server.exe
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Server\bin\Debug\Server.pdb
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Server\bin\Debug\Common.dll
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Server\bin\Debug\EntityFramework.dll
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Server\bin\Debug\log4net.dll
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Server\bin\Debug\Common.pdb
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Server\bin\Debug\Common.dll.config
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Server\bin\Debug\EntityFramework.xml
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Server\bin\Debug\log4net.xml
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Server\obj\Debug\Server.exe
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Server\obj\Debug\Server.pdb
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Server\bin\Debug\log4.config
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Server\bin\Debug\ShopDataBase.mdf
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Server\bin\Debug\ShopDataBase_log.ldf
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Server\bin\Debug\Server.exe.config
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Server\bin\Debug\Server.exe
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Server\bin\Debug\Server.pdb
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Server\bin\Debug\Common.dll
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Server\bin\Debug\EntityFramework.dll
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Server\bin\Debug\EntityFramework.SqlServer.dll
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Server\bin\Debug\log4net.dll
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Server\bin\Debug\Common.pdb
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Server\bin\Debug\Common.dll.config
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Server\bin\Debug\EntityFramework.xml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Server\bin\Debug\EntityFramework.SqlServer.xml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Server\bin\Debug\log4net.xml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Server\obj\Debug\Server.csprojAssemblyReference.cache
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Server\obj\Debug\Server.csproj.CopyComplete
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Server\obj\Debug\Server.exe
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Server\obj\Debug\Server.pdb
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Server\bin\Debug\log4.config
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Server\bin\Debug\ShopDataBase.mdf
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Server\bin\Debug\ShopDataBase_log.ldf
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Server\bin\Debug\Server.exe.config
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Server\bin\Debug\Server.exe
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Server\bin\Debug\Server.pdb
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Server\bin\Debug\Common.dll
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Server\bin\Debug\EntityFramework.dll
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Server\bin\Debug\EntityFramework.SqlServer.dll
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Server\bin\Debug\log4net.dll
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Server\bin\Debug\Common.pdb
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Server\bin\Debug\Common.dll.config
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Server\bin\Debug\EntityFramework.xml
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Server\bin\Debug\EntityFramework.SqlServer.xml
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Server\bin\Debug\log4net.xml
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Server\obj\Debug\Server.csprojAssemblyReference.cache
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Server\obj\Debug\Server.csproj.CopyComplete
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Server\obj\Debug\Server.exe
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Server\obj\Debug\Server.pdb

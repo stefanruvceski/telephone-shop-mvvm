@@ -1,0 +1,276 @@
+C:\Users\Stefan\source\repos\RVAProjekat\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Stefan\source\repos\RVAProjekat\Client\obj\Debug\App.g.cs
+C:\Users\Stefan\source\repos\RVAProjekat\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Stefan\source\repos\RVAProjekat\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Stefan\source\repos\RVAProjekat\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Stefan\source\repos\RVAProjekat\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\source\repos\RVAProjekat\Client\obj\Debug\View\AddNewTelephoneView.g.cs
+C:\Users\Stefan\source\repos\RVAProjekat\Client\obj\Debug\View\AddUserView.g.cs
+C:\Users\Stefan\source\repos\RVAProjekat\Client\obj\Debug\View\LogInVIew.g.cs
+C:\Users\Stefan\source\repos\RVAProjekat\Client\obj\Debug\View\MainWindow.g.cs
+C:\Users\Stefan\source\repos\RVAProjekat\Client\obj\Debug\View\ProfilInformationView.g.cs
+C:\Users\Stefan\source\repos\RVAProjekat\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Stefan\source\repos\RVAProjekat\Client\bin\Debug\Client.exe.config
+C:\Users\Stefan\source\repos\RVAProjekat\Client\bin\Debug\Client.exe
+C:\Users\Stefan\source\repos\RVAProjekat\Client\bin\Debug\Client.pdb
+C:\Users\Stefan\source\repos\RVAProjekat\Client\bin\Debug\Common.dll
+C:\Users\Stefan\source\repos\RVAProjekat\Client\bin\Debug\EntityFramework.dll
+C:\Users\Stefan\source\repos\RVAProjekat\Client\bin\Debug\Common.pdb
+C:\Users\Stefan\source\repos\RVAProjekat\Client\bin\Debug\Common.dll.config
+C:\Users\Stefan\source\repos\RVAProjekat\Client\bin\Debug\EntityFramework.xml
+C:\Users\Stefan\source\repos\RVAProjekat\Client\obj\Debug\View\AddNewTelephoneView.baml
+C:\Users\Stefan\source\repos\RVAProjekat\Client\obj\Debug\View\AddUserView.baml
+C:\Users\Stefan\source\repos\RVAProjekat\Client\obj\Debug\View\LogInVIew.baml
+C:\Users\Stefan\source\repos\RVAProjekat\Client\obj\Debug\View\MainWindow.baml
+C:\Users\Stefan\source\repos\RVAProjekat\Client\obj\Debug\View\ProfilInformationView.baml
+C:\Users\Stefan\source\repos\RVAProjekat\Client\obj\Debug\Client.g.resources
+C:\Users\Stefan\source\repos\RVAProjekat\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Stefan\source\repos\RVAProjekat\Client\obj\Debug\Client.exe
+C:\Users\Stefan\source\repos\RVAProjekat\Client\obj\Debug\Client.pdb
+C:\Users\Stefan\source\repos\RVAProjekat\Client\obj\Debug\View\AddNewShopView.g.cs
+C:\Users\Stefan\source\repos\RVAProjekat\Client\obj\Debug\View\AddNewShopView.baml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Client\bin\Debug\Client.exe.config
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Client\bin\Debug\Client.exe
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Client\bin\Debug\Client.pdb
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Client\bin\Debug\Common.dll
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Client\bin\Debug\EntityFramework.dll
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Client\bin\Debug\Common.pdb
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Client\bin\Debug\Common.dll.config
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Client\bin\Debug\EntityFramework.xml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Client\obj\Debug\Client.csprojAssemblyReference.cache
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Client\obj\Debug\View\AddNewShopView.g.cs
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Client\obj\Debug\View\AddNewTelephoneView.g.cs
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Client\obj\Debug\View\AddUserView.g.cs
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Client\obj\Debug\View\LogInVIew.g.cs
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Client\obj\Debug\View\MainWindow.g.cs
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Client\obj\Debug\View\ProfilInformationView.g.cs
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Client\obj\Debug\App.g.cs
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Client\obj\Debug\Client_MarkupCompile.cache
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Client\obj\Debug\Client_MarkupCompile.lref
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Client\obj\Debug\View\AddNewShopView.baml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Client\obj\Debug\View\AddNewTelephoneView.baml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Client\obj\Debug\View\AddUserView.baml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Client\obj\Debug\View\LogInVIew.baml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Client\obj\Debug\View\MainWindow.baml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Client\obj\Debug\View\ProfilInformationView.baml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Client\obj\Debug\Client.g.resources
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Client\obj\Debug\Client.Properties.Resources.resources
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Client\obj\Debug\Client.csproj.CopyComplete
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Client\obj\Debug\Client.exe
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Client\obj\Debug\Client.pdb
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Client\obj\Debug\View\ChangeTelephoneInfoView.g.cs
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Client\obj\Debug\View\ChangeTelephoneInfoView.baml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Client\obj\Debug\View\ChangeShopInfoVIew.g.cs
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVAProjekat\Client\obj\Debug\View\ChangeShopInfoVIew.baml
+C:\Users\Stefan\Desktop\RVAProjekat\Client\bin\Debug\Client.exe.config
+C:\Users\Stefan\Desktop\RVAProjekat\Client\bin\Debug\Client.exe
+C:\Users\Stefan\Desktop\RVAProjekat\Client\bin\Debug\Client.pdb
+C:\Users\Stefan\Desktop\RVAProjekat\Client\bin\Debug\Common.dll
+C:\Users\Stefan\Desktop\RVAProjekat\Client\bin\Debug\EntityFramework.dll
+C:\Users\Stefan\Desktop\RVAProjekat\Client\bin\Debug\Common.pdb
+C:\Users\Stefan\Desktop\RVAProjekat\Client\bin\Debug\Common.dll.config
+C:\Users\Stefan\Desktop\RVAProjekat\Client\bin\Debug\EntityFramework.xml
+C:\Users\Stefan\Desktop\RVAProjekat\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Stefan\Desktop\RVAProjekat\Client\obj\Debug\View\AddNewShopView.g.cs
+C:\Users\Stefan\Desktop\RVAProjekat\Client\obj\Debug\View\AddNewTelephoneView.g.cs
+C:\Users\Stefan\Desktop\RVAProjekat\Client\obj\Debug\View\AddUserView.g.cs
+C:\Users\Stefan\Desktop\RVAProjekat\Client\obj\Debug\View\ChangeShopInfoVIew.g.cs
+C:\Users\Stefan\Desktop\RVAProjekat\Client\obj\Debug\View\ChangeTelephoneInfoView.g.cs
+C:\Users\Stefan\Desktop\RVAProjekat\Client\obj\Debug\View\LogInVIew.g.cs
+C:\Users\Stefan\Desktop\RVAProjekat\Client\obj\Debug\View\MainWindow.g.cs
+C:\Users\Stefan\Desktop\RVAProjekat\Client\obj\Debug\View\ProfilInformationView.g.cs
+C:\Users\Stefan\Desktop\RVAProjekat\Client\obj\Debug\App.g.cs
+C:\Users\Stefan\Desktop\RVAProjekat\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Stefan\Desktop\RVAProjekat\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Stefan\Desktop\RVAProjekat\Client\obj\Debug\View\AddNewShopView.baml
+C:\Users\Stefan\Desktop\RVAProjekat\Client\obj\Debug\View\AddNewTelephoneView.baml
+C:\Users\Stefan\Desktop\RVAProjekat\Client\obj\Debug\View\AddUserView.baml
+C:\Users\Stefan\Desktop\RVAProjekat\Client\obj\Debug\View\ChangeShopInfoVIew.baml
+C:\Users\Stefan\Desktop\RVAProjekat\Client\obj\Debug\View\ChangeTelephoneInfoView.baml
+C:\Users\Stefan\Desktop\RVAProjekat\Client\obj\Debug\View\LogInVIew.baml
+C:\Users\Stefan\Desktop\RVAProjekat\Client\obj\Debug\View\MainWindow.baml
+C:\Users\Stefan\Desktop\RVAProjekat\Client\obj\Debug\View\ProfilInformationView.baml
+C:\Users\Stefan\Desktop\RVAProjekat\Client\obj\Debug\Client.g.resources
+C:\Users\Stefan\Desktop\RVAProjekat\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Stefan\Desktop\RVAProjekat\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Stefan\Desktop\RVAProjekat\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\RVAProjekat\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Stefan\Desktop\RVAProjekat\Client\obj\Debug\Client.exe
+C:\Users\Stefan\Desktop\RVAProjekat\Client\obj\Debug\Client.pdb
+F:\RVAProjekat\Client\bin\Debug\Client.exe.config
+F:\RVAProjekat\Client\bin\Debug\Client.exe
+F:\RVAProjekat\Client\bin\Debug\Client.pdb
+F:\RVAProjekat\Client\bin\Debug\Common.dll
+F:\RVAProjekat\Client\bin\Debug\EntityFramework.dll
+F:\RVAProjekat\Client\bin\Debug\Common.pdb
+F:\RVAProjekat\Client\bin\Debug\Common.dll.config
+F:\RVAProjekat\Client\bin\Debug\EntityFramework.xml
+F:\RVAProjekat\Client\obj\Debug\Client.csprojAssemblyReference.cache
+F:\RVAProjekat\Client\obj\Debug\View\AddNewShopView.g.cs
+F:\RVAProjekat\Client\obj\Debug\View\AddNewTelephoneView.g.cs
+F:\RVAProjekat\Client\obj\Debug\View\AddUserView.g.cs
+F:\RVAProjekat\Client\obj\Debug\View\ChangeShopInfoVIew.g.cs
+F:\RVAProjekat\Client\obj\Debug\View\ChangeTelephoneInfoView.g.cs
+F:\RVAProjekat\Client\obj\Debug\View\LogInVIew.g.cs
+F:\RVAProjekat\Client\obj\Debug\View\MainWindow.g.cs
+F:\RVAProjekat\Client\obj\Debug\View\ProfilInformationView.g.cs
+F:\RVAProjekat\Client\obj\Debug\App.g.cs
+F:\RVAProjekat\Client\obj\Debug\Client_MarkupCompile.cache
+F:\RVAProjekat\Client\obj\Debug\Client_MarkupCompile.lref
+F:\RVAProjekat\Client\obj\Debug\View\AddNewShopView.baml
+F:\RVAProjekat\Client\obj\Debug\View\AddNewTelephoneView.baml
+F:\RVAProjekat\Client\obj\Debug\View\AddUserView.baml
+F:\RVAProjekat\Client\obj\Debug\View\ChangeShopInfoVIew.baml
+F:\RVAProjekat\Client\obj\Debug\View\ChangeTelephoneInfoView.baml
+F:\RVAProjekat\Client\obj\Debug\View\LogInVIew.baml
+F:\RVAProjekat\Client\obj\Debug\View\MainWindow.baml
+F:\RVAProjekat\Client\obj\Debug\View\ProfilInformationView.baml
+F:\RVAProjekat\Client\obj\Debug\Client.g.resources
+F:\RVAProjekat\Client\obj\Debug\Client.Properties.Resources.resources
+F:\RVAProjekat\Client\obj\Debug\Client.csproj.GenerateResource.cache
+F:\RVAProjekat\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\RVAProjekat\Client\obj\Debug\Client.csproj.CopyComplete
+F:\RVAProjekat\Client\obj\Debug\Client.exe
+F:\RVAProjekat\Client\obj\Debug\Client.pdb
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Client\bin\Debug\Client.exe.config
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Client\bin\Debug\Client.exe
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Client\bin\Debug\Client.pdb
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Client\bin\Debug\Common.dll
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Client\bin\Debug\EntityFramework.dll
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Client\bin\Debug\Common.pdb
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Client\bin\Debug\Common.dll.config
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Client\bin\Debug\EntityFramework.xml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Client\obj\Debug\Client.csprojAssemblyReference.cache
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Client\obj\Debug\View\AddNewShopView.g.cs
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Client\obj\Debug\View\AddNewTelephoneView.g.cs
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Client\obj\Debug\View\AddUserView.g.cs
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Client\obj\Debug\View\ChangeShopInfoVIew.g.cs
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Client\obj\Debug\View\ChangeTelephoneInfoView.g.cs
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Client\obj\Debug\View\LogInVIew.g.cs
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Client\obj\Debug\View\MainWindow.g.cs
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Client\obj\Debug\View\ProfilInformationView.g.cs
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Client\obj\Debug\App.g.cs
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Client\obj\Debug\Client_MarkupCompile.cache
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Client\obj\Debug\Client_MarkupCompile.lref
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Client\obj\Debug\View\AddNewShopView.baml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Client\obj\Debug\View\AddNewTelephoneView.baml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Client\obj\Debug\View\AddUserView.baml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Client\obj\Debug\View\ChangeShopInfoVIew.baml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Client\obj\Debug\View\ChangeTelephoneInfoView.baml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Client\obj\Debug\View\LogInVIew.baml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Client\obj\Debug\View\MainWindow.baml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Client\obj\Debug\View\ProfilInformationView.baml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Client\obj\Debug\Client.g.resources
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Client\obj\Debug\Client.Properties.Resources.resources
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Client\obj\Debug\Client.csproj.CopyComplete
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Client\obj\Debug\Client.exe
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\TelephoneShop\RVAProjekat\Client\obj\Debug\Client.pdb
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Client\bin\Debug\Client.exe.config
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Client\bin\Debug\Client.exe
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Client\bin\Debug\Client.pdb
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Client\bin\Debug\Common.dll
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Client\bin\Debug\EntityFramework.dll
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Client\bin\Debug\Common.pdb
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Client\bin\Debug\Common.dll.config
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Client\bin\Debug\EntityFramework.xml
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Client\obj\Debug\View\AddNewShopView.g.cs
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Client\obj\Debug\View\AddNewTelephoneView.g.cs
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Client\obj\Debug\View\AddUserView.g.cs
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Client\obj\Debug\View\ChangeShopInfoVIew.g.cs
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Client\obj\Debug\View\ChangeTelephoneInfoView.g.cs
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Client\obj\Debug\View\LogInVIew.g.cs
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Client\obj\Debug\View\MainWindow.g.cs
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Client\obj\Debug\View\ProfilInformationView.g.cs
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Client\obj\Debug\App.g.cs
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Client\obj\Debug\View\AddNewShopView.baml
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Client\obj\Debug\View\AddNewTelephoneView.baml
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Client\obj\Debug\View\AddUserView.baml
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Client\obj\Debug\View\ChangeShopInfoVIew.baml
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Client\obj\Debug\View\ChangeTelephoneInfoView.baml
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Client\obj\Debug\View\LogInVIew.baml
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Client\obj\Debug\View\MainWindow.baml
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Client\obj\Debug\View\ProfilInformationView.baml
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Client\obj\Debug\Client.g.resources
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Client\obj\Debug\Client.exe
+C:\Users\Stefan\Documents\TelephoneShop - Copy\RVAProjekat\Client\obj\Debug\Client.pdb
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\bin\Debug\Client.exe.config
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\bin\Debug\Client.exe
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\bin\Debug\Client.pdb
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\bin\Debug\Common.dll
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\bin\Debug\EntityFramework.dll
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\bin\Debug\Common.pdb
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\bin\Debug\Common.dll.config
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\bin\Debug\EntityFramework.xml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\Client.csprojAssemblyReference.cache
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\View\AddNewShopView.g.cs
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\View\AddNewTelephoneView.g.cs
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\View\AddUserView.g.cs
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\View\ChangeShopInfoVIew.g.cs
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\View\ChangeTelephoneInfoView.g.cs
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\View\LogInVIew.g.cs
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\View\MainWindow.g.cs
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\View\ProfilInformationView.g.cs
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\App.g.cs
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\Client_MarkupCompile.cache
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\Client_MarkupCompile.lref
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\View\AddNewShopView.baml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\View\AddNewTelephoneView.baml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\View\AddUserView.baml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\View\ChangeShopInfoVIew.baml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\View\ChangeTelephoneInfoView.baml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\View\LogInVIew.baml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\View\MainWindow.baml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\View\ProfilInformationView.baml
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\Client.g.resources
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\Client.Properties.Resources.resources
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\Client.csproj.CopyComplete
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\Client.exe
+E:\GitHub\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\Client.pdb
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\bin\Debug\Client.exe.config
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\bin\Debug\Client.exe
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\bin\Debug\Client.pdb
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\bin\Debug\Common.dll
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\bin\Debug\EntityFramework.dll
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\bin\Debug\Common.pdb
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\bin\Debug\Common.dll.config
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\bin\Debug\EntityFramework.xml
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\View\AddNewShopView.g.cs
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\View\AddNewTelephoneView.g.cs
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\View\AddUserView.g.cs
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\View\ChangeShopInfoVIew.g.cs
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\View\ChangeTelephoneInfoView.g.cs
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\View\LogInVIew.g.cs
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\View\MainWindow.g.cs
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\View\ProfilInformationView.g.cs
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\App.g.cs
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\Client_MarkupCompile.cache
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\Client_MarkupCompile.lref
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\View\AddNewShopView.baml
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\View\AddNewTelephoneView.baml
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\View\AddUserView.baml
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\View\ChangeShopInfoVIew.baml
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\View\ChangeTelephoneInfoView.baml
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\View\LogInVIew.baml
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\View\MainWindow.baml
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\View\ProfilInformationView.baml
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\Client.g.resources
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\Client.Properties.Resources.resources
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\Client.csproj.CopyComplete
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\Client.exe
+D:\FTN\III Godina\VI Semestar\RVA\Projekat\RVA_Project_PR88_2015\TelephoneShop\RVAProjekat\Client\obj\Debug\Client.pdb

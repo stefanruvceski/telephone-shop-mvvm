@@ -1,0 +1,1679 @@
+2018-08-30 21:52:51,218 [7] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-30 21:52:51,232 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting admin from Database.
+2018-08-30 21:52:51,529 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 21:52:51,536 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 21:53:18,071 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by Less=909 from Database.
+2018-08-30 21:53:18,072 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 21:53:18,087 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by After=2000 from Database.
+2018-08-30 21:53:18,088 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 21:53:18,103 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by Less=5 from Database.
+2018-08-30 21:53:18,104 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 21:54:22,278 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking for initial data in Database.
+2018-08-30 21:54:24,060 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Telephone data from Database.
+2018-08-30 21:54:24,061 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 21:54:24,161 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Shop data from Database.
+2018-08-30 21:54:24,176 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 21:54:32,680 [7] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-30 21:54:32,688 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting admin from Database.
+2018-08-30 21:54:33,086 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 21:54:33,094 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 21:54:43,742 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by Less=909 from Database.
+2018-08-30 21:54:43,742 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 21:54:43,754 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by After=2000 from Database.
+2018-08-30 21:54:43,755 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 21:54:43,766 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by Less=5 from Database.
+2018-08-30 21:54:43,766 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 21:55:23,317 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking for initial data in Database.
+2018-08-30 21:55:24,750 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Telephone data from Database.
+2018-08-30 21:55:24,751 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 21:55:24,780 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Shop data from Database.
+2018-08-30 21:55:24,795 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 21:55:28,129 [5] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-30 21:55:28,135 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting admin from Database.
+2018-08-30 21:55:28,653 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 21:55:28,661 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 21:55:36,108 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by Less=909 from Database.
+2018-08-30 21:55:36,109 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 21:55:36,122 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by After=2000 from Database.
+2018-08-30 21:55:36,122 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 21:58:05,705 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking for initial data in Database.
+2018-08-30 21:58:07,145 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Telephone data from Database.
+2018-08-30 21:58:07,148 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 21:58:07,192 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Shop data from Database.
+2018-08-30 21:58:07,208 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 21:58:09,996 [6] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-30 21:58:10,003 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting admin from Database.
+2018-08-30 21:58:10,414 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 21:58:10,425 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 21:58:17,946 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by Less=909 from Database.
+2018-08-30 21:58:17,946 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 21:58:17,961 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by After=2000 from Database.
+2018-08-30 21:58:17,961 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:02:00,651 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking for initial data in Database.
+2018-08-30 22:02:01,741 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Telephone data from Database.
+2018-08-30 22:02:01,742 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:02:01,762 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Shop data from Database.
+2018-08-30 22:02:01,775 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:02:04,650 [6] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-30 22:02:04,657 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting admin from Database.
+2018-08-30 22:02:05,133 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:02:05,146 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:02:23,008 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by Less=909 from Database.
+2018-08-30 22:02:23,008 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:02:23,023 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by After=2000 from Database.
+2018-08-30 22:02:23,023 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:02:23,034 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by Less=5 from Database.
+2018-08-30 22:02:23,035 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:02:35,625 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by Less=909 from Database.
+2018-08-30 22:02:35,625 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:02:35,636 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by After=2000 from Database.
+2018-08-30 22:02:35,636 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:02:35,648 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by Less=5 from Database.
+2018-08-30 22:02:35,649 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:08:30,881 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking for initial data in Database.
+2018-08-30 22:08:32,728 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Telephone data from Database.
+2018-08-30 22:08:32,729 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:08:32,749 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Shop data from Database.
+2018-08-30 22:08:32,763 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:08:36,026 [6] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-30 22:08:36,035 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting admin from Database.
+2018-08-30 22:08:36,477 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:08:36,493 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:08:51,838 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by Less=909 from Database.
+2018-08-30 22:08:51,839 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:08:51,853 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by After=2000 from Database.
+2018-08-30 22:08:51,854 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:08:51,865 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by Less=5 from Database.
+2018-08-30 22:08:51,866 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:09:55,945 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking for initial data in Database.
+2018-08-30 22:09:57,121 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Telephone data from Database.
+2018-08-30 22:09:57,122 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:09:57,141 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Shop data from Database.
+2018-08-30 22:09:57,155 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:10:01,606 [3] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-30 22:10:01,614 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting admin from Database.
+2018-08-30 22:10:02,043 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:10:02,051 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:10:17,826 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by Less=909 from Database.
+2018-08-30 22:10:17,827 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:10:17,841 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by After=2000 from Database.
+2018-08-30 22:10:17,842 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:10:17,853 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by Less=5 from Database.
+2018-08-30 22:10:17,853 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:16:43,011 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking for initial data in Database.
+2018-08-30 22:16:45,675 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Telephone data from Database.
+2018-08-30 22:16:45,677 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:16:45,699 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Shop data from Database.
+2018-08-30 22:16:45,713 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:16:48,183 [5] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-30 22:16:48,190 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting admin from Database.
+2018-08-30 22:16:48,737 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:16:48,745 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:16:56,308 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:16:56,319 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:16:56,330 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:16:56,342 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by =samsung from Database.
+2018-08-30 22:16:56,342 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:24:15,685 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking for initial data in Database.
+2018-08-30 22:24:18,081 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Telephone data from Database.
+2018-08-30 22:24:18,082 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:24:18,102 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Shop data from Database.
+2018-08-30 22:24:18,115 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:27:09,909 [7] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-30 22:27:09,917 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting admin from Database.
+2018-08-30 22:27:10,334 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:27:10,343 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:27:43,484 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by Less=909 from Database.
+2018-08-30 22:27:43,485 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:27:43,501 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by After=2000 from Database.
+2018-08-30 22:27:43,502 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:27:43,515 [12] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by Less=5 from Database.
+2018-08-30 22:27:43,515 [12] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:27:43,526 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by =google from Database.
+2018-08-30 22:27:43,527 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:27:43,538 [12] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by =ProdajaTelefona from Database.
+2018-08-30 22:27:43,538 [12] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:28:16,119 [12] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:28:16,123 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:32:23,028 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking for initial data in Database.
+2018-08-30 22:32:24,623 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Telephone data from Database.
+2018-08-30 22:32:24,627 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:32:24,669 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Shop data from Database.
+2018-08-30 22:32:24,702 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:32:44,691 [8] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-30 22:32:44,698 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting admin from Database.
+2018-08-30 22:32:45,143 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:32:45,150 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:32:54,562 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:32:54,566 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:33:21,712 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking for initial data in Database.
+2018-08-30 22:33:23,124 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Telephone data from Database.
+2018-08-30 22:33:23,125 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:33:23,165 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Shop data from Database.
+2018-08-30 22:33:23,179 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:33:29,949 [7] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-30 22:33:29,956 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting admin from Database.
+2018-08-30 22:33:30,357 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:33:30,365 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:33:38,886 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:33:38,891 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:39:55,865 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking for initial data in Database.
+2018-08-30 22:39:58,508 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Telephone data from Database.
+2018-08-30 22:39:58,510 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:39:58,531 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Shop data from Database.
+2018-08-30 22:39:58,546 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:40:00,276 [5] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-30 22:40:00,282 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting admin from Database.
+2018-08-30 22:40:00,529 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:40:00,537 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:40:14,985 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:40:14,997 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:40:15,007 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:40:15,018 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:40:15,029 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:40:15,054 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:40:21,667 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:40:21,677 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:40:21,688 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:40:21,699 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:40:21,711 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by =MobilniSvet from Database.
+2018-08-30 22:40:21,711 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:40:23,644 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:40:23,655 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:40:23,666 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:40:23,677 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:40:23,689 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by =MobilniSvet from Database.
+2018-08-30 22:40:23,689 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:40:23,710 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:44:08,457 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking for initial data in Database.
+2018-08-30 22:44:09,829 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Telephone data from Database.
+2018-08-30 22:44:09,830 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:44:09,858 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Shop data from Database.
+2018-08-30 22:44:09,874 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:44:12,963 [3] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-30 22:44:12,970 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting admin from Database.
+2018-08-30 22:44:13,443 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:44:13,464 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:44:13,468 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:44:21,724 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:44:21,735 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:44:21,748 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:44:21,760 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:44:21,773 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by =ProdajaTelefona from Database.
+2018-08-30 22:44:21,773 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:44:23,537 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:44:23,548 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:44:23,558 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:44:23,570 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:44:23,580 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by =ProdajaTelefona from Database.
+2018-08-30 22:44:23,581 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:44:23,617 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:44:40,125 [8] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-30 22:44:40,130 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting stefanr from Database.
+2018-08-30 22:44:40,191 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:44:40,212 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:44:40,218 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:44:56,760 [9] INFO  Server.ClientLogger [(null)] - CLIENT side - Add Telephone is clicked.
+2018-08-30 22:44:56,776 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:45:45,567 [11] INFO  Server.ClientLogger [(null)] - CLIENT side - Stefan has clicked add Telephone.
+2018-08-30 22:45:45,578 [12] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:45:45,608 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Added to Database.
+2018-08-30 22:45:45,610 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting fsdfsd from Database.
+2018-08-30 22:45:45,611 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:45:47,979 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:45:47,994 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:45:48,005 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:45:48,017 [12] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:45:48,027 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by =ProdajaTelefona from Database.
+2018-08-30 22:45:48,027 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:45:48,049 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:45:50,370 [12] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Delete Telephone is opened.
+2018-08-30 22:45:51,490 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Removed from Database.
+2018-08-30 22:47:11,000 [11] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Delete Telephone is opened.
+2018-08-30 22:47:21,338 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:21,350 [14] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:21,361 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:21,372 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:21,382 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:21,407 [14] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:47:22,719 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:22,731 [14] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:22,742 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:22,753 [14] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:22,764 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:22,786 [14] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:47:22,984 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:22,995 [14] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:23,006 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:23,016 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:23,028 [14] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:23,050 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:47:23,147 [14] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:23,158 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:23,170 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:23,182 [14] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:23,193 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:23,215 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:47:23,393 [14] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:23,404 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:23,416 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:23,427 [14] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:23,438 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:23,460 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:47:23,559 [14] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:23,570 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:23,582 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:23,592 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:23,604 [14] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:23,626 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:47:23,747 [14] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:23,757 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:23,768 [14] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:23,780 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:23,791 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:23,813 [14] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:47:33,634 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:33,646 [14] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:33,657 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:33,667 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:33,678 [14] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by =ProdajaTelefona from Database.
+2018-08-30 22:47:33,678 [14] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:44,787 [11] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Delete Telephone is opened.
+2018-08-30 22:47:46,063 [13] ERROR Server.ServerLogger [(null)] - SERVER side - Telephone is not Removed from Database.
+2018-08-30 22:47:52,705 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:52,716 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:52,727 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:52,738 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:52,748 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by =ProdajaTelefona from Database.
+2018-08-30 22:47:52,748 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:47:52,770 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:47:57,645 [13] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Delete Telephone is opened.
+2018-08-30 22:47:58,912 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Removed from Database.
+2018-08-30 22:48:02,629 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:48:02,648 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:48:02,662 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:48:02,673 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:48:02,684 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by =ProdajaTelefona from Database.
+2018-08-30 22:48:02,685 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:48:02,707 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:48:19,191 [11] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Change Telephone is opened.
+2018-08-30 22:48:20,668 [8] INFO  Server.ClientLogger [(null)] - CLIENT side - Change Telephone is clicked.
+2018-08-30 22:48:20,685 [9] ERROR Server.ServerLogger [(null)] - SERVER side - Telephone is not Updated to Database.
+2018-08-30 22:48:22,908 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting asdasdasd from Database.
+2018-08-30 22:48:22,909 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:48:22,943 [11] FATAL Server.ClientLogger [(null)] - CLIENT side - Connection failed
+2018-08-30 22:48:25,787 [9] INFO  Server.ClientLogger [(null)] - CLIENT side - Change Telephone is clicked.
+2018-08-30 22:48:25,797 [11] ERROR Server.ServerLogger [(null)] - SERVER side - Telephone is not Updated to Database.
+2018-08-30 22:48:26,482 [9] WARN  Server.ClientLogger [(null)] - CLIENT side - Telephone is modified.
+2018-08-30 22:48:26,495 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Updated to Database.
+2018-08-30 22:48:26,506 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting asdasdasd from Database.
+2018-08-30 22:48:26,507 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:48:28,478 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:48:28,489 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:48:28,501 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:48:28,512 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:48:28,523 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by =ProdajaTelefona from Database.
+2018-08-30 22:48:28,523 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:48:28,544 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:48:31,759 [9] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Delete Telephone is opened.
+2018-08-30 22:48:32,818 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Removed from Database.
+2018-08-30 22:48:35,326 [11] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Change Telephone is opened.
+2018-08-30 22:48:37,277 [8] INFO  Server.ClientLogger [(null)] - CLIENT side - Change Telephone is clicked.
+2018-08-30 22:48:37,288 [11] ERROR Server.ServerLogger [(null)] - SERVER side - Telephone is not Updated to Database.
+2018-08-30 22:49:23,676 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting asdasdasd from Database.
+2018-08-30 22:49:23,677 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:50:00,917 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking for initial data in Database.
+2018-08-30 22:50:02,370 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Telephone data from Database.
+2018-08-30 22:50:02,372 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:50:02,406 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Shop data from Database.
+2018-08-30 22:50:02,419 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:50:10,764 [6] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-30 22:50:10,771 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting admin from Database.
+2018-08-30 22:50:11,222 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:50:11,237 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:50:11,242 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:50:18,876 [5] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-30 22:50:18,881 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting stefanr from Database.
+2018-08-30 22:50:21,459 [3] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-30 22:50:21,461 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting stefanr from Database.
+2018-08-30 22:50:23,583 [6] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-30 22:50:23,585 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting stefanr from Database.
+2018-08-30 22:50:23,626 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:50:23,639 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:50:23,643 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:50:32,828 [3] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Delete Telephone is opened.
+2018-08-30 22:50:33,985 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Removed from Database.
+2018-08-30 22:50:36,403 [5] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Change Telephone is opened.
+2018-08-30 22:50:38,093 [6] INFO  Server.ClientLogger [(null)] - CLIENT side - Change Telephone is clicked.
+2018-08-30 22:50:38,110 [5] ERROR Server.ServerLogger [(null)] - SERVER side - Telephone is not Updated to Database.
+2018-08-30 22:50:41,122 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:50:41,132 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:50:41,143 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:50:41,155 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:50:41,165 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:50:41,190 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:50:42,324 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:50:42,335 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:50:42,345 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:50:42,356 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:50:42,371 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:50:42,395 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:57:03,131 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking for initial data in Database.
+2018-08-30 22:57:05,740 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Telephone data from Database.
+2018-08-30 22:57:05,741 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:57:05,762 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Shop data from Database.
+2018-08-30 22:57:05,774 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:57:11,026 [7] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-30 22:57:11,033 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting admin from Database.
+2018-08-30 22:57:11,440 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:57:11,459 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:57:11,463 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:57:14,318 [7] INFO  Server.ClientLogger [(null)] - CLIENT side - Add Telephone is clicked.
+2018-08-30 22:57:14,332 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:57:43,598 [5] INFO  Server.ClientLogger [(null)] - CLIENT side - Admin has clicked add Telephone.
+2018-08-30 22:57:43,610 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:57:43,646 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Added to Database.
+2018-08-30 22:57:43,649 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting IPhoneX from Database.
+2018-08-30 22:57:43,649 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:57:43,679 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:57:43,690 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:57:43,694 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:57:43,704 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:57:43,714 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:57:43,726 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:57:43,737 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:57:43,751 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:57:43,761 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:57:43,771 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:57:43,781 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:57:43,793 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:57:46,793 [9] INFO  Server.ClientLogger [(null)] - CLIENT side - Add Telephone is clicked.
+2018-08-30 22:57:46,805 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:58:14,609 [8] INFO  Server.ClientLogger [(null)] - CLIENT side - Admin has clicked add Telephone.
+2018-08-30 22:58:14,621 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:58:14,633 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Added to Database.
+2018-08-30 22:58:14,636 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting MotorolaX4 from Database.
+2018-08-30 22:58:14,636 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:58:14,661 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:58:14,674 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:58:14,677 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:58:14,689 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:58:14,699 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:58:14,717 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:58:14,728 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:58:14,741 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:58:14,753 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:58:14,764 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:58:14,775 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:58:14,796 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:58:15,785 [8] INFO  Server.ClientLogger [(null)] - CLIENT side - Add Telephone is clicked.
+2018-08-30 22:58:15,802 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:58:49,907 [10] INFO  Server.ClientLogger [(null)] - CLIENT side - Admin has clicked add Telephone.
+2018-08-30 22:58:49,919 [12] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:58:49,934 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Added to Database.
+2018-08-30 22:58:49,937 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting IPhone8 from Database.
+2018-08-30 22:58:49,937 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:58:49,968 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:58:49,981 [12] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:58:49,983 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:58:49,997 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:58:50,009 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:58:50,020 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:58:50,031 [12] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:58:50,044 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:58:50,054 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:58:50,064 [12] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:58:50,074 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:58:50,084 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:58:52,560 [12] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Add Shop is opened.
+2018-08-30 22:59:11,325 [12] INFO  Server.ClientLogger [(null)] - CLIENT side - Admin has clicked add Shop.
+2018-08-30 22:59:11,344 [15] INFO  Server.ServerLogger [(null)] - SERVER side - Shop is Added to Database.
+2018-08-30 22:59:11,366 [14] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:59:11,379 [12] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 22:59:11,382 [15] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:59:11,392 [14] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:59:11,404 [12] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:59:11,417 [14] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:59:11,429 [15] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 22:59:20,219 [15] INFO  Server.ClientLogger [(null)] - CLIENT side - Add Telephone is clicked.
+2018-08-30 22:59:20,232 [14] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:00:02,713 [14] INFO  Server.ClientLogger [(null)] - CLIENT side - Admin has clicked add Telephone.
+2018-08-30 23:00:02,726 [17] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:00:02,740 [16] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Added to Database.
+2018-08-30 23:00:02,742 [17] INFO  Server.ServerLogger [(null)] - SERVER side - Getting XiaomiMI2 from Database.
+2018-08-30 23:00:02,742 [17] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:00:02,768 [14] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:00:02,782 [16] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:00:02,786 [17] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:00:02,797 [14] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:00:02,808 [16] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:00:02,820 [14] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:00:02,831 [17] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:00:02,845 [16] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:00:02,857 [14] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:00:02,869 [16] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:00:02,881 [17] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:00:02,891 [14] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:00:19,456 [14] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Delete Shop is opened.
+2018-08-30 23:00:21,227 [14] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones than belongs to MobShop from Database.
+2018-08-30 23:00:21,249 [22] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Removed from Database.
+2018-08-30 23:00:21,264 [14] INFO  Server.ServerLogger [(null)] - SERVER side - Shop from Removed to Database.
+2018-08-30 23:00:21,276 [21] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:00:21,294 [14] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:00:30,165 [21] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:00:30,168 [22] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:00:32,896 [21] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:00:32,906 [22] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:00:32,919 [21] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:00:32,930 [22] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:00:32,941 [14] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:00:32,964 [21] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:01:13,773 [21] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Delete Telephone is opened.
+2018-08-30 23:01:13,802 [23] ERROR Server.ServerLogger [(null)] - SERVER side - Telephone is not Removed from Database.
+2018-08-30 23:01:17,026 [19] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:01:17,046 [23] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:01:17,056 [21] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:01:17,067 [23] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:01:17,079 [19] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:01:17,102 [23] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:01:17,569 [21] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:01:17,581 [23] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:01:17,591 [19] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:01:17,603 [21] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:01:17,614 [23] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:01:17,638 [19] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:01:17,722 [23] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:01:17,732 [21] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:01:17,743 [19] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:01:17,755 [21] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:01:17,766 [23] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:01:17,789 [19] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:01:17,866 [23] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:01:17,877 [19] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:01:17,889 [23] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:01:17,900 [19] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:01:17,912 [23] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:01:17,935 [19] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:01:18,008 [21] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:01:18,020 [23] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:01:18,031 [21] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:01:18,042 [19] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:01:18,052 [23] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:01:18,075 [19] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:01:18,280 [23] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:01:18,290 [19] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:01:18,302 [23] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:01:18,313 [21] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:01:18,324 [19] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:01:18,347 [21] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:01:18,446 [19] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:01:18,458 [23] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:01:18,468 [19] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:01:18,481 [23] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:01:18,492 [19] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:01:18,515 [21] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:02:51,254 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking for initial data in Database.
+2018-08-30 23:02:52,732 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Telephone data from Database.
+2018-08-30 23:02:52,733 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:02:52,755 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Shop data from Database.
+2018-08-30 23:02:52,768 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:02:55,111 [7] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-30 23:02:55,117 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting admin from Database.
+2018-08-30 23:02:55,455 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:02:55,468 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:02:55,472 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:03:25,231 [5] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Log in again is opened.
+2018-08-30 23:03:29,036 [8] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-30 23:03:29,039 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting stefanr from Database.
+2018-08-30 23:03:29,063 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:03:29,074 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:03:29,077 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:03:38,580 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:03:38,590 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:03:38,601 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:03:38,612 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:03:38,622 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:03:38,645 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:03:42,861 [8] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Log in again is opened.
+2018-08-30 23:04:11,916 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking for initial data in Database.
+2018-08-30 23:04:13,267 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Telephone data from Database.
+2018-08-30 23:04:13,272 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:04:13,308 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Shop data from Database.
+2018-08-30 23:04:13,323 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:04:17,684 [6] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-30 23:04:17,693 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting admin from Database.
+2018-08-30 23:04:18,273 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:04:18,287 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:04:18,294 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:04:18,436 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:04:18,449 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:04:18,451 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:04:18,462 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:04:18,474 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:04:18,483 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:04:18,494 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:04:20,372 [7] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Log in again is opened.
+2018-08-30 23:04:26,215 [6] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-30 23:04:26,217 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting stefanr from Database.
+2018-08-30 23:04:26,253 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:04:26,264 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:04:26,267 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:04:26,325 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:04:26,336 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:04:26,338 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:04:26,349 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:04:26,360 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:04:26,371 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:04:26,383 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:04:35,625 [7] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Log in again is opened.
+2018-08-30 23:04:42,221 [7] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-30 23:04:42,222 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting admim from Database.
+2018-08-30 23:04:43,831 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:04:43,842 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:04:43,845 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:04:43,856 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:04:43,867 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:04:43,878 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:04:43,889 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:04:47,548 [7] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-30 23:04:47,549 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting admin from Database.
+2018-08-30 23:04:47,574 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:04:47,585 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:04:47,587 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:04:47,641 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:04:47,652 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:04:47,660 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:04:47,672 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:04:47,683 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:04:47,694 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:04:47,704 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:04:57,671 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:04:57,682 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:04:57,692 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:04:57,703 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:04:57,713 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:04:57,733 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:05:38,308 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking for initial data in Database.
+2018-08-30 23:05:39,665 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Telephone data from Database.
+2018-08-30 23:05:39,666 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:05:39,695 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Shop data from Database.
+2018-08-30 23:05:39,709 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:05:43,121 [6] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-30 23:05:43,129 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting admin from Database.
+2018-08-30 23:05:43,552 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:05:43,568 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:05:43,573 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:05:43,681 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:05:43,691 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:05:43,693 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:05:45,416 [7] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Log in again is opened.
+2018-08-30 23:05:49,372 [3] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-30 23:05:49,373 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting stefanr from Database.
+2018-08-30 23:05:49,403 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:05:49,414 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:05:49,416 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:05:49,486 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:05:49,498 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:05:49,500 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:06:34,682 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking for initial data in Database.
+2018-08-30 23:06:35,921 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Telephone data from Database.
+2018-08-30 23:06:35,922 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:06:35,979 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Shop data from Database.
+2018-08-30 23:06:35,992 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:06:38,353 [7] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-30 23:06:38,371 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting admin from Database.
+2018-08-30 23:06:38,799 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:06:38,806 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:06:38,842 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:06:38,845 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:06:38,949 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:06:38,952 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:06:38,975 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:06:38,977 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:06:40,325 [3] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Log in again is opened.
+2018-08-30 23:06:44,180 [7] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-30 23:06:44,181 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting stefanr from Database.
+2018-08-30 23:06:44,212 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:06:44,215 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:06:44,237 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:06:44,240 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:06:44,302 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:06:44,304 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:06:44,323 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:06:44,325 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:07:03,365 [7] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Log in again is opened.
+2018-08-30 23:07:07,134 [9] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-30 23:07:07,135 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting stefanr from Database.
+2018-08-30 23:07:07,160 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:07:10,470 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:07:17,494 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:07:18,303 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:07:34,969 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:07:39,926 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:07:39,951 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:07:39,954 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:09:10,678 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking for initial data in Database.
+2018-08-30 23:09:12,024 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Telephone data from Database.
+2018-08-30 23:09:12,027 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:09:12,071 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Shop data from Database.
+2018-08-30 23:09:12,089 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:09:14,313 [5] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-30 23:09:14,320 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting admin from Database.
+2018-08-30 23:09:14,716 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:09:14,733 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:09:14,737 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:09:14,760 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:09:14,770 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:09:14,780 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:09:14,790 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:09:14,799 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:09:14,818 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:09:14,910 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:09:14,920 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:09:14,922 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:09:17,221 [3] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Log in again is opened.
+2018-08-30 23:09:21,052 [7] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-30 23:09:21,053 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting stefanr from Database.
+2018-08-30 23:09:21,082 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:09:21,092 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:09:21,095 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:09:21,108 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:09:21,119 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:09:21,130 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:09:21,141 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:09:21,152 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:09:21,173 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:09:21,249 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:09:21,260 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:09:21,262 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:17:03,076 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking for initial data in Database.
+2018-08-30 23:17:05,501 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Telephone data from Database.
+2018-08-30 23:17:05,502 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:17:05,530 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Shop data from Database.
+2018-08-30 23:17:05,543 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:17:08,606 [7] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-30 23:17:08,616 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting admin from Database.
+2018-08-30 23:17:08,979 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:17:08,995 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:17:08,998 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:17:09,018 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:17:09,029 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:17:09,039 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:17:09,050 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:17:09,061 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:17:09,085 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:17:09,177 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:17:09,187 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:17:09,189 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:58:13,910 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking for initial data in Database.
+2018-08-30 23:58:15,850 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Telephone data from Database.
+2018-08-30 23:58:15,852 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:58:15,872 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Shop data from Database.
+2018-08-30 23:58:15,886 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:58:23,228 [5] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-30 23:58:23,235 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting admin from Database.
+2018-08-30 23:58:23,583 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:58:23,598 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:58:23,601 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:58:23,625 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:58:23,636 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:58:23,647 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:58:23,658 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:58:23,669 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:58:23,692 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:58:23,791 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:58:23,802 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:58:23,804 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:58:32,911 [7] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-30 23:58:32,916 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting stefanr from Database.
+2018-08-30 23:58:32,959 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:58:32,972 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:58:32,976 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:58:32,991 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:58:33,003 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:58:33,014 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:58:33,025 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:58:33,036 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:58:33,058 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:58:33,148 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:58:33,164 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:58:33,166 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:58:51,293 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:58:51,309 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:58:51,323 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:58:51,334 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:58:51,345 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:58:51,357 [8] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Delete Telephone is opened.
+2018-08-30 23:58:52,715 [9] ERROR Server.ServerLogger [(null)] - SERVER side - Telephone is not Removed from Database.
+2018-08-30 23:58:56,316 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:58:56,327 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:58:56,338 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:58:56,349 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:58:56,359 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:58:56,382 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:58:58,687 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:58:58,697 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:58:58,708 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:58:58,719 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:58:58,729 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:58:58,743 [9] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Delete Telephone is opened.
+2018-08-30 23:58:59,820 [5] ERROR Server.ServerLogger [(null)] - SERVER side - Telephone is not Removed from Database.
+2018-08-30 23:59:01,874 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:59:01,885 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:59:01,895 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:59:01,905 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:59:01,916 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:59:01,938 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:59:03,246 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:59:03,257 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:59:03,268 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:59:03,279 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:59:03,291 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:59:03,305 [9] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Delete Telephone is opened.
+2018-08-30 23:59:04,563 [5] ERROR Server.ServerLogger [(null)] - SERVER side - Telephone is not Removed from Database.
+2018-08-30 23:59:08,669 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:59:08,680 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:59:08,690 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:59:08,702 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:59:08,712 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:59:08,756 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-30 23:59:10,301 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:59:10,312 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:59:10,323 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:59:10,333 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:59:10,344 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:59:10,358 [8] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Delete Telephone is opened.
+2018-08-30 23:59:11,437 [5] ERROR Server.ServerLogger [(null)] - SERVER side - Telephone is not Removed from Database.
+2018-08-30 23:59:15,180 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:59:15,190 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:59:15,201 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:59:15,211 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:59:15,223 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:59:15,236 [8] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Delete Telephone is opened.
+2018-08-30 23:59:16,354 [5] ERROR Server.ServerLogger [(null)] - SERVER side - Telephone is not Removed from Database.
+2018-08-30 23:59:20,095 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:59:20,105 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:59:20,116 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:59:20,128 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:59:20,137 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:59:20,150 [9] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Delete Telephone is opened.
+2018-08-30 23:59:21,421 [8] ERROR Server.ServerLogger [(null)] - SERVER side - Telephone is not Removed from Database.
+2018-08-30 23:59:29,200 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:59:29,210 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:59:29,221 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:59:29,232 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:59:29,243 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:59:29,258 [8] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Delete Telephone is opened.
+2018-08-30 23:59:30,357 [5] ERROR Server.ServerLogger [(null)] - SERVER side - Telephone is not Removed from Database.
+2018-08-30 23:59:51,680 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:59:51,692 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:59:51,704 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:59:51,715 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:59:51,725 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-30 23:59:51,739 [10] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Delete Telephone is opened.
+2018-08-31 00:01:27,848 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking for initial data in Database.
+2018-08-31 00:01:28,999 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Telephone data from Database.
+2018-08-31 00:01:29,000 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:01:29,019 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Shop data from Database.
+2018-08-31 00:01:29,032 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:01:32,140 [3] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-31 00:01:32,147 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting admin from Database.
+2018-08-31 00:01:32,666 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:01:32,683 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:01:32,689 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:01:32,707 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:01:32,718 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:01:32,730 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:01:32,741 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:01:32,752 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:01:32,774 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:01:32,867 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:01:32,878 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:01:32,880 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:01:46,059 [5] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-31 00:01:46,065 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting stefanr from Database.
+2018-08-31 00:01:46,132 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:01:46,145 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:01:46,149 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:01:46,165 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:01:46,177 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:01:46,189 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:01:46,200 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:01:46,211 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:01:46,234 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:01:46,346 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:01:46,357 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:01:46,359 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:01:57,775 [5] INFO  Server.ClientLogger [(null)] - CLIENT side - Add Telephone is clicked.
+2018-08-31 00:01:57,788 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:02:06,513 [6] INFO  Server.ClientLogger [(null)] - CLIENT side - Admin has clicked add Telephone.
+2018-08-31 00:02:06,528 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:02:06,556 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Added to Database.
+2018-08-31 00:02:06,559 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting s from Database.
+2018-08-31 00:02:06,560 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:02:06,587 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:02:06,598 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:02:06,600 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:02:06,612 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:02:06,623 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:02:06,636 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:02:06,646 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:02:06,661 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:02:06,672 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:02:06,683 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:02:06,694 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:02:06,705 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:02:10,548 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:02:10,562 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:02:10,572 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:02:10,583 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:02:10,594 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:02:10,616 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:02:12,374 [5] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Delete Telephone is opened.
+2018-08-31 00:02:16,802 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Removed from Database.
+2018-08-31 00:02:21,903 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:02:21,913 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:02:21,923 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:02:21,934 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:02:21,945 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:02:21,959 [8] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Change Telephone is opened.
+2018-08-31 00:03:50,988 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking for initial data in Database.
+2018-08-31 00:03:52,160 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Telephone data from Database.
+2018-08-31 00:03:52,161 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:03:52,182 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Shop data from Database.
+2018-08-31 00:03:52,195 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:03:56,442 [6] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-31 00:03:56,449 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting admin from Database.
+2018-08-31 00:03:56,906 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:03:56,921 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:03:56,925 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:03:56,943 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:03:56,953 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:03:56,965 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:03:56,975 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:03:56,987 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:03:57,008 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:03:57,105 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:03:57,116 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:03:57,118 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:03:59,184 [3] INFO  Server.ClientLogger [(null)] - CLIENT side - Add Telephone is clicked.
+2018-08-31 00:03:59,197 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:04:08,911 [7] INFO  Server.ClientLogger [(null)] - CLIENT side - Admin has clicked add Telephone.
+2018-08-31 00:04:08,921 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:04:08,951 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Added to Database.
+2018-08-31 00:04:08,954 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting s from Database.
+2018-08-31 00:04:08,955 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:04:08,982 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:04:08,993 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:04:08,995 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:04:09,006 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:04:09,017 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:04:09,028 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:04:09,039 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:04:09,053 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:04:09,064 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:04:09,074 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:04:09,085 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:04:09,097 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:04:12,342 [6] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Change Telephone is opened.
+2018-08-31 00:04:16,760 [7] INFO  Server.ClientLogger [(null)] - CLIENT side - Change Telephone is clicked.
+2018-08-31 00:04:16,775 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Updated to Database.
+2018-08-31 00:04:16,794 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting dsfrefds from Database.
+2018-08-31 00:04:16,795 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:04:16,819 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:04:16,830 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:04:16,833 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:04:16,845 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:04:16,856 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:04:16,868 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:04:16,878 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:04:20,281 [7] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Delete Telephone is opened.
+2018-08-31 00:04:21,704 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Removed from Database.
+2018-08-31 00:04:24,524 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:04:24,534 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:04:24,546 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:04:24,556 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:04:24,567 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:04:24,590 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:05:05,180 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking for initial data in Database.
+2018-08-31 00:05:06,433 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Telephone data from Database.
+2018-08-31 00:05:06,434 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:05:06,454 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Shop data from Database.
+2018-08-31 00:05:06,467 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:05:14,442 [7] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-31 00:05:14,448 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting admin from Database.
+2018-08-31 00:05:14,875 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:05:14,893 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:05:14,898 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:05:14,915 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:05:14,926 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:05:14,938 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:05:14,950 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:05:14,960 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:05:14,981 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:05:15,074 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:05:15,085 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:05:15,088 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:05:18,817 [7] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Add Shop is opened.
+2018-08-31 00:05:21,062 [5] INFO  Server.ClientLogger [(null)] - CLIENT side - Add Telephone is clicked.
+2018-08-31 00:05:21,078 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:05:29,110 [3] INFO  Server.ClientLogger [(null)] - CLIENT side - Admin has clicked add Telephone.
+2018-08-31 00:05:29,120 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:05:29,147 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Added to Database.
+2018-08-31 00:05:29,151 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting s from Database.
+2018-08-31 00:05:29,151 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:05:29,178 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:05:29,188 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:05:29,190 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:05:29,201 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:05:29,212 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:05:29,224 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:05:29,234 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:05:29,248 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:05:29,259 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:05:29,271 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:05:29,282 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:05:29,291 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:05:32,012 [7] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Change Telephone is opened.
+2018-08-31 00:05:35,601 [3] INFO  Server.ClientLogger [(null)] - CLIENT side - Change Telephone is clicked.
+2018-08-31 00:05:35,617 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Updated to Database.
+2018-08-31 00:05:35,637 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting s from Database.
+2018-08-31 00:05:35,638 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:05:35,662 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:05:35,673 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:05:35,676 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:05:35,685 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:05:35,696 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:05:35,705 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:05:35,714 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:05:37,479 [3] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Delete Telephone is opened.
+2018-08-31 00:05:38,298 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Removed from Database.
+2018-08-31 00:05:38,301 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:05:38,311 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:05:38,321 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:05:38,332 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:05:38,343 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:05:41,806 [3] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Duplicate Telephone is opened.
+2018-08-31 00:05:41,817 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Added to Database.
+2018-08-31 00:05:41,820 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:05:41,830 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:05:41,841 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:05:41,851 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:05:41,861 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:05:48,526 [3] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Buy Telephone is opened.
+2018-08-31 00:05:50,136 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Removed from Database.
+2018-08-31 00:05:50,138 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:05:50,148 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:05:50,159 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:05:50,169 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:05:50,179 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:05:52,512 [3] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for View and Change User information is opened.
+2018-08-31 00:06:00,279 [5] INFO  Server.ClientLogger [(null)] - CLIENT side - Change Information is clicked.
+2018-08-31 00:06:00,317 [3] INFO  Server.ServerLogger [(null)] - SERVER side - User Updated to Database.
+2018-08-31 00:06:00,333 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:06:00,345 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:06:00,347 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:06:00,358 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:06:00,369 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:06:00,381 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:06:00,392 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:06:01,904 [5] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Add new User is opened.
+2018-08-31 00:06:13,936 [7] INFO  Server.ClientLogger [(null)] - CLIENT side - Add new user is clicked.
+2018-08-31 00:06:13,948 [5] INFO  Server.ServerLogger [(null)] - SERVER side - User Added to Database.
+2018-08-31 00:06:15,502 [7] INFO  Server.ClientLogger [(null)] - CLIENT side - Successfully added user userr
+2018-08-31 00:06:15,520 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:06:15,531 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:06:15,537 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:06:15,547 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:06:15,557 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:06:15,568 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:06:15,578 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:06:18,220 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:06:18,230 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:06:18,242 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:06:18,251 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:06:18,262 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:06:18,284 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:06:23,727 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Added to Database.
+2018-08-31 00:06:23,729 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting IPhone8 from Database.
+2018-08-31 00:06:23,729 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:06:23,740 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:06:23,750 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:06:23,760 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:06:23,779 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:06:23,791 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:06:25,837 [8] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Buy Telephone is opened.
+2018-08-31 00:06:26,743 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Removed from Database.
+2018-08-31 00:06:26,746 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:06:26,757 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:06:26,767 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:06:26,778 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:06:26,787 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:06:41,828 [10] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-31 00:06:41,832 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting stefanr from Database.
+2018-08-31 00:06:41,894 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:06:41,908 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:06:41,914 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:06:41,930 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:06:41,941 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:06:41,952 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:06:41,962 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:06:41,973 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:06:41,995 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:06:42,106 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:06:42,118 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:06:42,120 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:06:56,889 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Added to Database.
+2018-08-31 00:06:56,891 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting IPhone8 from Database.
+2018-08-31 00:06:56,892 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:06:56,902 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:06:56,913 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:06:56,925 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:06:56,936 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:06:56,947 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:07:00,897 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:07:00,908 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:07:00,918 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:07:00,928 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:07:00,938 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:07:00,960 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:07:02,887 [10] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Buy Telephone is opened.
+2018-08-31 00:07:02,897 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Removed from Database.
+2018-08-31 00:07:02,898 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:07:02,907 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:07:02,916 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:07:02,925 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:07:02,933 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:07:06,282 [9] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Change Telephone is opened.
+2018-08-31 00:07:09,622 [5] INFO  Server.ClientLogger [(null)] - CLIENT side - Change Telephone is clicked.
+2018-08-31 00:07:09,633 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Updated to Database.
+2018-08-31 00:07:09,645 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting IPhone8 from Database.
+2018-08-31 00:07:09,645 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:07:09,668 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:07:09,680 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:07:09,682 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:07:09,693 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:07:09,704 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:07:09,715 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:07:09,727 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:07:29,089 [9] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Change Telephone is opened.
+2018-08-31 00:07:35,279 [11] INFO  Server.ClientLogger [(null)] - CLIENT side - Change Telephone is clicked.
+2018-08-31 00:07:35,289 [3] ERROR Server.ServerLogger [(null)] - SERVER side - Telephone is not Updated to Database.
+2018-08-31 00:07:36,013 [9] WARN  Server.ClientLogger [(null)] - CLIENT side - Telephone is modified.
+2018-08-31 00:07:36,053 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Updated to Database.
+2018-08-31 00:07:36,056 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting IPhone8 from Database.
+2018-08-31 00:07:36,056 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:07:36,086 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:07:36,098 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:07:36,100 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:07:36,111 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:07:36,122 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:07:36,133 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:07:36,144 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:07:39,102 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:07:39,113 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:07:39,124 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:07:39,136 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:07:39,147 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:07:39,169 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:07:56,213 [9] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Delete Telephone is opened.
+2018-08-31 00:07:57,682 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Removed from Database.
+2018-08-31 00:07:57,685 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:07:57,696 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:07:57,709 [12] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:07:57,720 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:07:57,731 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:07:59,605 [13] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Change Telephone is opened.
+2018-08-31 00:08:02,703 [9] INFO  Server.ClientLogger [(null)] - CLIENT side - Change Telephone is clicked.
+2018-08-31 00:08:02,714 [13] ERROR Server.ServerLogger [(null)] - SERVER side - Telephone is not Updated to Database.
+2018-08-31 00:08:03,930 [9] WARN  Server.ClientLogger [(null)] - CLIENT side - Telephone is modified.
+2018-08-31 00:08:03,941 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Updated to Database.
+2018-08-31 00:08:03,954 [12] INFO  Server.ServerLogger [(null)] - SERVER side - Getting IPhone8 from Database.
+2018-08-31 00:08:03,955 [12] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:08:03,981 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:08:03,993 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:08:03,995 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:08:04,006 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:08:04,017 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:08:04,028 [12] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:08:04,039 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:08:04,593 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:08:04,605 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:08:04,616 [12] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:08:04,626 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:08:04,637 [12] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:08:04,659 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:08:09,875 [12] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Change Telephone is opened.
+2018-08-31 00:08:13,049 [9] INFO  Server.ClientLogger [(null)] - CLIENT side - Change Telephone is clicked.
+2018-08-31 00:08:13,059 [12] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Updated to Database.
+2018-08-31 00:08:13,071 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting IPhone8 from Database.
+2018-08-31 00:08:13,072 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:08:13,095 [12] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:08:13,106 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:08:13,108 [12] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:08:13,119 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:08:13,129 [12] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:08:13,140 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:08:13,152 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:08:15,574 [9] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Change Telephone is opened.
+2018-08-31 00:08:18,738 [13] INFO  Server.ClientLogger [(null)] - CLIENT side - Change Telephone is clicked.
+2018-08-31 00:08:18,753 [12] ERROR Server.ServerLogger [(null)] - SERVER side - Telephone is not Updated to Database.
+2018-08-31 00:08:21,648 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:08:21,660 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:08:21,662 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:08:21,673 [12] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:08:21,684 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:08:21,695 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:08:21,706 [12] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:08:33,874 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:08:33,884 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:08:33,895 [12] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:08:33,906 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by =iphone from Database.
+2018-08-31 00:08:33,908 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:08:33,919 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:08:39,043 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:08:39,052 [12] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:08:39,062 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:08:39,072 [12] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by =iphone from Database.
+2018-08-31 00:08:39,073 [12] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:08:39,083 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by =MobilnaProdaja from Database.
+2018-08-31 00:08:39,083 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:08:41,937 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:08:41,948 [12] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:08:41,980 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:08:41,997 [12] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by =iphone from Database.
+2018-08-31 00:08:41,999 [12] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:08:42,009 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by =ProdajaTelefona from Database.
+2018-08-31 00:08:42,009 [13] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 00:08:43,274 [12] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 00:08:43,277 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 12:59:50,480 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking for initial data in Database.
+2018-08-31 12:59:52,879 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Telephone data from Database.
+2018-08-31 12:59:52,901 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Shop data from Database.
+2018-08-31 13:00:58,440 [3] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-31 13:00:58,447 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting admin from Database.
+2018-08-31 13:00:59,104 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:00:59,128 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:00:59,142 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:00:59,161 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:00:59,172 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:00:59,184 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:00:59,194 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:00:59,206 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:00:59,220 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:00:59,317 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:00:59,328 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:00:59,339 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:01:02,217 [7] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for View and Change User information is opened.
+2018-08-31 13:01:06,843 [6] INFO  Server.ClientLogger [(null)] - CLIENT side - Change Information is clicked.
+2018-08-31 13:01:06,896 [7] INFO  Server.ServerLogger [(null)] - SERVER side - User Updated to Database.
+2018-08-31 13:01:06,905 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:01:06,916 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:01:06,927 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:01:06,938 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:01:06,949 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:01:06,959 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:01:06,970 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:01:07,869 [6] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for View and Change User information is opened.
+2018-08-31 13:01:10,695 [7] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Add new User is opened.
+2018-08-31 13:01:20,393 [6] INFO  Server.ClientLogger [(null)] - CLIENT side - Add new user is clicked.
+2018-08-31 13:01:20,407 [7] INFO  Server.ServerLogger [(null)] - SERVER side - User Added to Database.
+2018-08-31 13:01:21,756 [6] INFO  Server.ClientLogger [(null)] - CLIENT side - Successfully added user pero
+2018-08-31 13:01:21,766 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:01:21,777 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:01:21,788 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:01:21,800 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:01:21,810 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:01:21,822 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:01:21,833 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:01:23,886 [6] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Add Shop is opened.
+2018-08-31 13:01:27,978 [3] INFO  Server.ClientLogger [(null)] - CLIENT side - Admin has clicked add Shop.
+2018-08-31 13:01:28,000 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Shop is Added to Database.
+2018-08-31 13:01:28,007 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:01:28,018 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:01:28,029 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:01:28,041 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:01:28,052 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:01:28,062 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:01:28,073 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:01:31,833 [6] INFO  Server.ClientLogger [(null)] - CLIENT side - Add Telephone is clicked.
+2018-08-31 13:01:31,838 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:01:41,251 [3] INFO  Server.ClientLogger [(null)] - CLIENT side - Admin has clicked add Telephone.
+2018-08-31 13:01:41,254 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:01:41,282 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Added to Database.
+2018-08-31 13:01:41,285 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting t from Database.
+2018-08-31 13:01:41,305 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:01:41,317 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:01:41,328 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:01:41,340 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:01:41,351 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:01:41,363 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:01:41,374 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:01:41,387 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:01:41,398 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:01:41,409 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:01:41,421 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:01:41,432 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:01:50,286 [3] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Delete Shop is opened.
+2018-08-31 13:01:51,410 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones than belongs to shop from Database.
+2018-08-31 13:01:51,435 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Removed from Database.
+2018-08-31 13:01:51,449 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Shop from Removed to Database.
+2018-08-31 13:01:51,451 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:01:51,463 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:01:54,920 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:01:54,931 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:01:54,942 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:01:54,952 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:01:54,962 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:01:54,973 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:03:25,778 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking for initial data in Database.
+2018-08-31 13:03:27,080 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Telephone data from Database.
+2018-08-31 13:03:27,099 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Shop data from Database.
+2018-08-31 13:03:34,017 [5] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-31 13:03:34,023 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting admin from Database.
+2018-08-31 13:03:34,497 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:03:34,524 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:03:34,537 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:03:34,571 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:03:34,583 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:03:34,594 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:03:34,610 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:03:34,621 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:03:34,637 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:03:34,729 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:03:34,741 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:03:34,752 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:03:36,733 [3] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Add Shop is opened.
+2018-08-31 13:03:39,678 [6] INFO  Server.ClientLogger [(null)] - CLIENT side - Admin has clicked add Shop.
+2018-08-31 13:03:39,708 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Shop is Added to Database.
+2018-08-31 13:03:39,717 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:03:39,728 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:03:39,739 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:03:39,750 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:03:39,767 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:03:39,779 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:03:39,790 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:03:40,636 [6] INFO  Server.ClientLogger [(null)] - CLIENT side - Add Telephone is clicked.
+2018-08-31 13:03:40,641 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:03:53,407 [6] INFO  Server.ClientLogger [(null)] - CLIENT side - Admin has clicked add Telephone.
+2018-08-31 13:03:53,410 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:03:53,437 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Added to Database.
+2018-08-31 13:03:53,440 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting t from Database.
+2018-08-31 13:03:53,458 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:03:53,472 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:03:53,482 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:03:53,493 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:03:53,504 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:03:53,513 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:03:53,523 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:03:53,536 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:03:53,546 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:03:53,561 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:03:53,572 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:03:53,582 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:03:57,052 [6] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Delete Shop is opened.
+2018-08-31 13:03:57,809 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones than belongs to s from Database.
+2018-08-31 13:03:57,840 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Removed from Database.
+2018-08-31 13:03:57,854 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Shop from Removed to Database.
+2018-08-31 13:03:57,856 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:03:57,869 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:03:57,880 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:03:57,890 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:03:57,901 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:03:57,913 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:03:57,924 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:05:07,441 [6] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Change Telephone is opened.
+2018-08-31 13:05:10,255 [9] INFO  Server.ClientLogger [(null)] - CLIENT side - Change Telephone is clicked.
+2018-08-31 13:05:10,283 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Updated to Database.
+2018-08-31 13:05:10,284 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting MotorolaX4 from Database.
+2018-08-31 13:05:10,303 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:05:10,315 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:05:10,330 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:05:10,341 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:05:10,352 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:05:10,363 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:05:10,374 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:05:24,746 [9] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Duplicate Telephone is opened.
+2018-08-31 13:05:24,757 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Added to Database.
+2018-08-31 13:05:24,760 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:05:24,770 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:05:24,781 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:05:24,792 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:05:24,803 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:05:28,986 [9] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Buy Telephone is opened.
+2018-08-31 13:05:30,094 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Removed from Database.
+2018-08-31 13:05:30,096 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:05:30,107 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:05:30,118 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:05:30,129 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:05:30,140 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:05:39,682 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:05:39,693 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:05:39,704 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:05:39,718 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:05:39,730 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by =MobilniSvet from Database.
+2018-08-31 13:05:52,916 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:05:52,926 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by After=2018 from Database.
+2018-08-31 13:05:52,938 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:05:52,948 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:05:52,959 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by =MobilniSvet from Database.
+2018-08-31 13:05:58,055 [9] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Log in again is opened.
+2018-08-31 13:18:05,103 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking for initial data in Database.
+2018-08-31 13:18:07,175 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Telephone data from Database.
+2018-08-31 13:18:07,196 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Shop data from Database.
+2018-08-31 13:18:09,147 [6] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-31 13:18:09,157 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting admin from Database.
+2018-08-31 13:18:09,609 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:18:09,637 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:18:09,652 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:18:09,684 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:18:09,695 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:18:09,706 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:18:09,717 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:18:09,729 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:18:09,742 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:18:09,835 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:18:09,847 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:18:09,857 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:18:11,538 [5] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Add new User is opened.
+2018-08-31 13:18:19,946 [7] INFO  Server.ClientLogger [(null)] - CLIENT side - Add new user is clicked.
+2018-08-31 13:18:20,008 [5] ERROR Server.ServerLogger [(null)] - SERVER side - User is not Added to Database.
+2018-08-31 13:18:21,949 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:18:21,962 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:18:21,974 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:18:21,985 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:18:21,996 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:18:22,007 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:18:22,020 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:18:24,290 [6] INFO  Server.ClientLogger [(null)] - CLIENT side - Add new user is clicked.
+2018-08-31 13:18:24,302 [7] INFO  Server.ServerLogger [(null)] - SERVER side - User Added to Database.
+2018-08-31 13:18:25,988 [5] INFO  Server.ClientLogger [(null)] - CLIENT side - Successfully added user perica
+2018-08-31 13:18:25,996 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:18:26,007 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:18:26,019 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:18:26,030 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:18:26,042 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:18:26,053 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:18:26,064 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:18:27,261 [7] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for View and Change User information is opened.
+2018-08-31 13:18:36,148 [6] INFO  Server.ClientLogger [(null)] - CLIENT side - Change Information is clicked.
+2018-08-31 13:18:36,194 [7] INFO  Server.ServerLogger [(null)] - SERVER side - User Updated to Database.
+2018-08-31 13:18:36,204 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:18:36,216 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:18:36,227 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:18:36,238 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:18:36,249 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:18:36,260 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:18:36,270 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:18:37,328 [5] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for View and Change User information is opened.
+2018-08-31 13:18:39,227 [6] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Add Shop is opened.
+2018-08-31 13:18:41,767 [5] INFO  Server.ClientLogger [(null)] - CLIENT side - Admin has clicked add Shop.
+2018-08-31 13:18:41,785 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Shop is Added to Database.
+2018-08-31 13:18:41,794 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:18:41,805 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:18:41,819 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:18:41,829 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:18:41,841 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:18:41,853 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:18:41,864 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:18:43,365 [6] INFO  Server.ClientLogger [(null)] - CLIENT side - Add Telephone is clicked.
+2018-08-31 13:18:43,374 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:19:29,371 [5] INFO  Server.ClientLogger [(null)] - CLIENT side - Admin has clicked add Telephone.
+2018-08-31 13:19:29,374 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:19:29,403 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Added to Database.
+2018-08-31 13:19:29,407 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting t from Database.
+2018-08-31 13:19:29,426 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:19:29,437 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:19:29,448 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:19:29,460 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:19:29,471 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:19:29,482 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:19:29,493 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:19:29,508 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:19:29,519 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:19:29,530 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:19:29,542 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:19:29,557 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:19:36,871 [5] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Delete Shop is opened.
+2018-08-31 13:19:37,835 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones than belongs to s from Database.
+2018-08-31 13:19:38,023 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Removed from Database.
+2018-08-31 13:19:38,472 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Shop from Removed to Database.
+2018-08-31 13:19:38,475 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:19:38,498 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:19:38,517 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:19:38,536 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:19:38,555 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:19:38,574 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:19:38,589 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:19:41,814 [9] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Change Telephone is opened.
+2018-08-31 13:19:46,246 [8] INFO  Server.ClientLogger [(null)] - CLIENT side - Change Telephone is clicked.
+2018-08-31 13:19:46,270 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Updated to Database.
+2018-08-31 13:19:49,263 [5] WARN  Server.ClientLogger [(null)] - CLIENT side - Telephone is modified.
+2018-08-31 13:19:49,302 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Updated to Database.
+2018-08-31 13:19:49,304 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting IPhone8 from Database.
+2018-08-31 13:19:49,324 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:19:49,336 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:19:49,346 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:19:49,358 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:19:49,368 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:19:49,379 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:19:49,390 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:19:51,089 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:19:51,110 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:19:51,121 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:19:51,132 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:19:51,143 [8] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:19:51,157 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:19:57,338 [5] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Change Telephone is opened.
+2018-08-31 13:20:11,260 [9] INFO  Server.ClientLogger [(null)] - CLIENT side - Change Telephone is clicked.
+2018-08-31 13:20:11,287 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Updated to Database.
+2018-08-31 13:20:35,612 [5] WARN  Server.ClientLogger [(null)] - CLIENT side - Telephone is modified.
+2018-08-31 13:20:35,645 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Updated to Database.
+2018-08-31 13:20:35,648 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting MotorolaX4 from Database.
+2018-08-31 13:20:35,666 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:20:35,677 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:20:35,687 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:20:35,698 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:20:35,709 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:20:35,720 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:20:35,731 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:20:40,792 [10] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Duplicate Telephone is opened.
+2018-08-31 13:20:40,805 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Added to Database.
+2018-08-31 13:20:40,807 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:20:40,819 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:20:40,830 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:20:40,841 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:20:40,853 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:20:43,050 [10] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Buy Telephone is opened.
+2018-08-31 13:20:44,085 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Removed from Database.
+2018-08-31 13:20:44,088 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:20:44,098 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:20:44,109 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:20:44,120 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:20:44,130 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:20:45,033 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:20:45,044 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:20:45,055 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:20:45,066 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:20:45,077 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:20:45,091 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:20:49,856 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:20:49,867 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:20:49,877 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:20:49,888 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:20:49,899 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by =MobilniSvet from Database.
+2018-08-31 13:20:57,465 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:20:57,475 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:20:57,486 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:20:57,497 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by =motorola from Database.
+2018-08-31 13:20:57,510 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by =MobilniSvet from Database.
+2018-08-31 13:20:57,816 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:20:57,827 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:20:57,837 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:20:57,848 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by =motorola from Database.
+2018-08-31 13:20:57,858 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by =MobilniSvet from Database.
+2018-08-31 13:21:04,867 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:21:04,878 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:21:06,604 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Added to Database.
+2018-08-31 13:21:06,606 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting MotorolaX4 from Database.
+2018-08-31 13:21:06,617 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:21:06,627 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:21:06,638 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:21:06,651 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:21:06,662 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:21:07,697 [5] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Buy Telephone is opened.
+2018-08-31 13:21:07,709 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Removed from Database.
+2018-08-31 13:21:07,711 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:21:07,722 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:21:07,733 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:21:07,744 [10] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:21:07,755 [11] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:21:32,578 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking for initial data in Database.
+2018-08-31 13:21:33,869 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Telephone data from Database.
+2018-08-31 13:21:33,902 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Shop data from Database.
+2018-08-31 13:21:36,275 [5] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-31 13:21:36,282 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting admin from Database.
+2018-08-31 13:21:36,700 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:21:36,717 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:21:36,731 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:21:36,750 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:21:36,764 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:21:36,775 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:21:36,786 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:21:36,798 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:21:36,811 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:21:36,904 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:21:36,916 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:21:36,927 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:21:39,599 [7] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Change Telephone is opened.
+2018-08-31 13:21:44,337 [3] INFO  Server.ClientLogger [(null)] - CLIENT side - Change Telephone is clicked.
+2018-08-31 13:21:44,377 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Updated to Database.
+2018-08-31 13:21:44,379 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting IPhone8 from Database.
+2018-08-31 13:21:44,399 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:21:44,412 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:21:44,423 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:21:44,434 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:21:44,446 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:21:44,457 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:21:44,467 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:21:46,534 [7] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Change Telephone is opened.
+2018-08-31 13:21:51,375 [5] INFO  Server.ClientLogger [(null)] - CLIENT side - Change Telephone is clicked.
+2018-08-31 13:21:51,395 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Updated to Database.
+2018-08-31 13:21:51,397 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting IPhone8 from Database.
+2018-08-31 13:21:51,415 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:21:51,426 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:21:51,437 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:21:51,448 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:21:51,459 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:21:51,471 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:21:51,482 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:21:53,662 [5] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Change Telephone is opened.
+2018-08-31 13:22:01,272 [7] INFO  Server.ClientLogger [(null)] - CLIENT side - Change Telephone is clicked.
+2018-08-31 13:22:01,292 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Updated to Database.
+2018-08-31 13:22:01,294 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting IPhone8 from Database.
+2018-08-31 13:22:01,312 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:22:01,323 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:22:01,334 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:22:01,346 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:22:01,359 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:22:01,370 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:22:01,382 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:22:05,958 [7] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Log in again is opened.
+2018-08-31 13:22:10,235 [3] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-31 13:22:10,237 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting stefanr from Database.
+2018-08-31 13:22:10,264 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:22:10,275 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:22:10,286 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:22:10,299 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:22:10,310 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:22:10,321 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:22:10,331 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:22:10,343 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:22:10,353 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:22:10,414 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:22:10,425 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:22:10,438 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:22:13,011 [5] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Log in again is opened.
+2018-08-31 13:22:18,104 [7] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-31 13:22:18,105 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting teodorar from Database.
+2018-08-31 13:22:18,122 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:22:18,133 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:22:18,144 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:22:18,155 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:22:18,165 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:22:18,176 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:22:18,187 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:22:18,198 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:22:18,209 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:22:18,271 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:22:18,282 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:22:18,293 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:23:01,312 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking for initial data in Database.
+2018-08-31 13:23:02,436 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Telephone data from Database.
+2018-08-31 13:23:02,456 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Shop data from Database.
+2018-08-31 13:31:59,042 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking for initial data in Database.
+2018-08-31 13:32:01,298 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Telephone data from Database.
+2018-08-31 13:32:01,334 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Shop data from Database.
+2018-08-31 13:33:36,654 [7] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2018-08-31 13:33:36,661 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting admin from Database.
+2018-08-31 13:33:37,147 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:33:37,174 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:33:37,191 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:33:37,226 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:33:37,238 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:33:37,250 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:33:37,261 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:33:37,273 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:33:37,287 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:33:37,392 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:33:37,403 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:33:37,414 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:33:48,977 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:33:48,987 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:33:48,998 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:33:49,010 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by =iphone from Database.
+2018-08-31 13:33:49,023 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:33:54,096 [7] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Change Telephone is opened.
+2018-08-31 13:33:59,320 [3] INFO  Server.ClientLogger [(null)] - CLIENT side - Change Telephone is clicked.
+2018-08-31 13:33:59,359 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Telephone is Updated to Database.
+2018-08-31 13:33:59,363 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting IPhoneX from Database.
+2018-08-31 13:33:59,381 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:33:59,391 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:33:59,401 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:33:59,413 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:33:59,423 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:33:59,435 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by =iphone from Database.
+2018-08-31 13:33:59,445 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:34:05,641 [7] INFO  Server.ClientLogger [(null)] - CLIENT side - Dialog for Change Shop is opened.
+2018-08-31 13:34:10,525 [5] INFO  Server.ClientLogger [(null)] - CLIENT side - Change Shop is clicked.
+2018-08-31 13:34:10,590 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Shop is Updated to Database.
+2018-08-31 13:34:10,600 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:34:10,614 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2018-08-31 13:34:10,625 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:34:10,635 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:34:10,646 [5] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2018-08-31 13:34:10,658 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones by =iphone from Database.
+2018-08-31 13:34:10,669 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2019-01-03 23:19:39,208 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking for initial data in Database.
+2019-01-03 23:19:48,354 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Telephone data from Database.
+2019-01-03 23:19:48,391 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Shop data from Database.
+2019-01-03 23:19:55,886 [7] INFO  Server.ClientLogger [(null)] - CLIENT side - Log In is clicked.
+2019-01-03 23:19:55,900 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting admin from Database.
+2019-01-03 23:19:56,430 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2019-01-03 23:19:56,473 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2019-01-03 23:19:56,488 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2019-01-03 23:19:56,514 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2019-01-03 23:19:56,527 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2019-01-03 23:19:56,546 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2019-01-03 23:19:56,558 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2019-01-03 23:19:56,577 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2019-01-03 23:19:56,609 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2019-01-03 23:19:56,714 [7] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2019-01-03 23:19:56,798 [3] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2019-01-03 23:19:56,879 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2019-01-03 23:20:43,469 [6] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Shops from Database.
+2019-01-03 23:20:43,485 [9] INFO  Server.ServerLogger [(null)] - SERVER side - Getting all Telephones from Database.
+2019-01-04 00:41:46,358 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking for initial data in Database.
+2019-01-04 00:41:50,946 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Telephone data from Database.
+2019-01-04 00:41:50,974 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking initial Shop data from Database.
+2019-02-08 22:03:42,903 [1] INFO  Server.ServerLogger [(null)] - SERVER side - Checking for initial data in Database.
